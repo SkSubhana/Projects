@@ -11,7 +11,6 @@ import pandas as pd
 from email.message import EmailMessage
 import re
 import random
-import pandas as pd
 from win32.win32api import GetSystemMetrics
 from tkscrolledframe import ScrolledFrame
 from tkinter import PhotoImage
